@@ -6,7 +6,9 @@ Esta política describe Gear Bashers, paquete Android `com.stronquensstudio.gear
 
 ## Alcance de esta versión
 
-La versión 0.2.28 es una alpha de desarrollo distribuida mediante invitaciones privadas. Incluye partidas locales con bots, multijugador online y conexiones entre dispositivos. No incluye anuncios ni compras dentro del juego. No solicita una cuenta de correo, contraseña o acceso con Google o Apple para jugar.
+La alpha actual se distribuye mediante invitaciones privadas. Incluye partidas locales con bots, multijugador online y conexiones entre dispositivos. No incluye anuncios ni compras dentro del juego. No solicita una cuenta de correo, contraseña o acceso con Google o Apple para jugar.
+
+Para solicitar la eliminación de datos, consulta [Conservación y solicitudes](https://stronquens.github.io/gear-bashers-privacy/#conservacion-y-solicitudes).
 
 ## Datos almacenados en el móvil
 
